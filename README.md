@@ -1,1 +1,1 @@
-# SmartWasteManagement-PPTs
+Smart Waste Management System is a project designed to improve waste collection and recycling using technology. It helps track waste levels in bins in real time and optimizes collection routes. The system includes a user-friendly interface for better waste monitoring and management. It integrates MongoDB for efficient data storage and JavaFX for a smooth UI experience. This project aims to make waste management smarter, reducing pollution and improving cleanliness.
